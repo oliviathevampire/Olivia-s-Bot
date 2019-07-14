@@ -1,0 +1,15 @@
+{
+  "name": "huskys_discord_io_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
