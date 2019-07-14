@@ -3,7 +3,7 @@ const prefix = "!"; // Set bot prefix here
 var Discord = require('discord.io');
 var bot = new Discord.Client({
     autorun: true,
-    token: "NTYxOTM2NTM2NTIyNzE5MjY2.XKDeVA.ufXQ70pMgv0VXr4sg7UroQLf7hQ"
+    token: "<secret>"
 });
 
 const stdin = process.stdin; // Use the terminal to run JS code
